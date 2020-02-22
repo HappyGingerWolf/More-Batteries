@@ -1,0 +1,14 @@
+type: Battery
+name: Huge Battery
+description: A very large battery.
+size: 4
+hasPower: true
+consumes: {
+  powerBuffered: 100000
+}
+requirements: [
+  lead/40
+  silicon/120
+  thorium/40
+]
+category: power
