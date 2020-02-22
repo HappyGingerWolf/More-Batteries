@@ -1,0 +1,14 @@
+type: Battery
+name: Medium Battery
+description: A medium sized battery.
+size: 2
+hasPower: true
+consumes: {
+  powerBuffered: 20000
+}
+requirements: [
+  lead/20
+  silicon/10
+  titanium/10
+]
+category: power
