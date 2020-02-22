@@ -1,0 +1,6 @@
+name: "more-batteries"
+displayName: "[yellow]More Batteries"
+author: "GingerWolf"
+description: "A mod that adds more batteries."
+version: "1"
+minGameVersion: "103"
