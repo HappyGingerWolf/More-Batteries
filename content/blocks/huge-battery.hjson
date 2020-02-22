@@ -12,4 +12,4 @@ requirements: [
   thorium/40
 ]
 category: power
-research: large-battery
+research: battery-large
