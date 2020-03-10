@@ -1,0 +1,15 @@
+type: Battery
+name: Gigantic Battery
+description: A massive battery.
+size: 5
+hasPower: true
+consumes: {
+  powerBuffered: 180000
+}
+requirements: [
+  titanium/80
+  silicon/180
+  surge-alloy/50
+]
+category: power
+research: huge-battery
